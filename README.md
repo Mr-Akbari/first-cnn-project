@@ -14,7 +14,7 @@ The names of the notebook indicate the dataset names used to train the models. T
 2.  Open required notebook using jupyter notebook
 3.  Change directory path of dataset and you are good to go!
 
-![](https://github.com/Mr-Akbari/first-cnn-project/raw/master/saved_images/result.png)
+![](https://github.com/Mr-Akbari/first-cnn-project/raw/master/saved_images/result1.png)
 
 ##  Downloading dataset
 
