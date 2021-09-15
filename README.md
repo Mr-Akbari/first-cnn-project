@@ -18,8 +18,9 @@ The names of the notebook indicate the dataset names used to train the models. T
 
 ##  Downloading dataset
 
-1.   Denoising Dirty Documents :  [https://www.kaggle.com/c/denoising-dirty-documents/overview](https://www.kaggle.com/c/denoising-dirty-documents/overview)
-
+1.   Denoising Dirty Documents :  [https://www.kaggle.com/c/denoising-dirty-documents/overview](Denoising Dirty Documents : Remove noise from printed text)
+2.   Super Image Resolution :  [https://www.kaggle.com/akhileshdkapse/super-image-resolution](Super Image Resolution : Image Super Resolu􀆟on (x4) Using a Generative Adversarial Network)
+2.   
 ## References
 
 1.  [Person-Segmentation-Keras](https://github.com/TianzhongSong/Person-Segmentation-Keras)
